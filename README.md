@@ -1,10 +1,6 @@
 # Pipeline de Dados de Tratores de Esteiras
 Este repositório armazena o conteúdo dos resultados mostrados na dissertação de Mestrado em Engenharia de Software sobre padrões de desgaste de materiais rodantes de tratores de esteiras.
 
-## 📑 Sumário
-- 🧑‍💻 [**Quero rodar este projeto localmente**](#🧑‍💻-Rodar-localmente)
-- 📊 [**Quero apenas visualizar os dados**](#📊-Visualizar-os-dados)
-
 ## 📁 Estrutura do projeto
 ```plaintext
 data-pipeline-crawler-dozers/
