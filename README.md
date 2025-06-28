@@ -29,7 +29,7 @@ data-pipeline-crawler-dozers/
 
 - Clonando o projeto
 ```bash
-git clone <Colar link aqui> && cd data-pipeline-crawler-dozers
+git clone https://github.com/Robert-Araujo1/data-pipeline-crawler-dozers.git && cd data-pipeline-crawler-dozers
 ```
 - Criando ambiente virtual
 ```bash
