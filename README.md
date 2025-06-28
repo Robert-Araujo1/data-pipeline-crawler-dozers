@@ -2,8 +2,8 @@
 Este repositório armazena o conteúdo dos resultados mostrados na dissertação de Mestrado em Engenharia de Software sobre padrões de desgaste de materiais rodantes de tratores de esteiras.
 
 ## 📑 Sumário
-- 🧑‍💻 [**Quero rodar este projeto localmente**](#rodar-localmente)
-- 📊 [**Quero apenas visualizar os dados**](#visualizar-os-dados)
+- 🧑‍💻 [Quero rodar este projeto localmente](#rodar-localmente)
+- 📊 [Quero apenas visualizar os dados](#visualizar-os-dados)
 
 ## 📁 Estrutura do projeto
 ```plaintext
@@ -24,7 +24,7 @@ data-pipeline-crawler-dozers/
 ├── requirements.txt
 ```
 
-## 🧑‍💻 Rodar localmente
+## 🧑‍💻Rodar localmente
 ### 🛠️ Requisitos
 - 🐍 Python 3.11
 - 🐳 Docker 25.0.3+
@@ -61,6 +61,6 @@ docker-compose up -d
 python pipeline.py
 ```
 
-## 📊 Visualizar os dados
+## 📊Visualizar os dados
 
 Abra o arquivo [`04_analyze.ipynb`](notebooks/04_analyze.ipynb) dentro da pasta `notebooks`.
